@@ -1,0 +1,7 @@
+---
+apiVersion: v2
+name: helm-ingress-rules
+description: A Helm chart for Kebenetes
+type: application
+version: 0.0.0
+appVersion: 0.0.0
